@@ -1,0 +1,7 @@
+SRP -->>> Higher Cohesion helps attain bette adherence to the SRP 
+COUPLING -->>> Is define ad the level of inter dependency between various software (Aim-->> for loose Coupling)
+Cohesion --->>> Is the degree to which the various parts of a software components are related (Aim -->> for high cohesion)
+
+"The only thing that is constant is change"
+
+OCP -->> Software components should be closed for modification, but open for extension.
