@@ -1,0 +1,14 @@
+package com.DependencyInverstionQuestion;
+
+import com.DependencyInverstionAnswer.ProductFactory;
+
+public class ProductCatalog {
+
+	public void listAllProduct() {
+		
+		ProductCatalog productrepo = ProductFactory.create();
+		
+		productrepo.getAllProduct();
+		//List all product
+	}
+}

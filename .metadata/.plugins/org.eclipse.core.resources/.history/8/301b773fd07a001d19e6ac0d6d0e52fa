@@ -1,0 +1,8 @@
+package com.DependencyInverstionAnswer;
+
+import javax.swing.JList;
+
+public interface ProductRepository {
+
+	public List<String> getAllProduct();
+}

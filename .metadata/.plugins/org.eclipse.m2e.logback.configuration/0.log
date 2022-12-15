@@ -1,0 +1,6 @@
+2022-12-13 14:59:26,907 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2022-12-13 17:44:10,567 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/cn/hchub/maven-archetype-plugin/1.5.0/maven-archetype-plugin-1.5.0.jar
+2022-12-13 17:44:11,197 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/cn/hchub/maven-archetype-plugin/1.5.0/maven-archetype-plugin-1.5.0.jar
+2022-12-13 17:44:11,461 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo1.maven.org/maven2/cn/hchub/maven-archetype-plugin/1.5.0/maven-archetype-plugin-1.5.0.pom
+2022-12-13 17:44:11,806 [ModalContext] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo1.maven.org/maven2/cn/hchub/maven-archetype-plugin/1.5.0/maven-archetype-plugin-1.5.0.pom
+2022-12-15 10:29:23,706 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.

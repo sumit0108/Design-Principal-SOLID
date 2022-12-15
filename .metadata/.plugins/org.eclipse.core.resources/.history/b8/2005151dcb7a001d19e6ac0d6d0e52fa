@@ -1,0 +1,5 @@
+package com.InterfaceSPAnswer;
+
+public interface IScan {
+
+}

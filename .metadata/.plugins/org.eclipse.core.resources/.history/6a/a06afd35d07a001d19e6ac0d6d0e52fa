@@ -1,0 +1,6 @@
+package com.DependencyInverstionAnswer;
+
+public interface ProductRepository {
+
+	public list<String> getAllProduct();
+}

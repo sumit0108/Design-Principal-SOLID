@@ -1,0 +1,40 @@
+package com.InterfaceSP;
+
+public class HPPrinterNScanner implements IMultiFunction {
+
+	@Override
+	public void print() {
+		System.out.println("Print");
+
+	}
+
+	@Override
+	public void getPrintSpoolDetails() {
+		System.out.println("getPrintSpoolDetails");
+
+	}
+
+	@Override
+	public void scan() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void scanPhoto() {
+		// TODO Auto-generated method stub
+
+	}
+
+	@Override
+	public void fax() {
+		// UnImplemented Method
+
+	}
+
+	@Override
+	public void internetFax() {
+		// UnImplemented Method
+	}
+
+}

@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+D:\Sumit(lecture Notes)\SOLID principle\.metadata\.plugins\org.eclipse.jdt.core
+3232098948.index
+4051835168.index
+1865797976.index
